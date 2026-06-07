@@ -44,7 +44,7 @@ Predict the likelihood of diseases based on **patient medical data** using machi
 1. Clone this repository
 
 ```bash
-git clone https://github.com/24a31a43a0/CodeAlpha\_DiseasePrediction.git
+git clone https://github.com/24a31a43a0/CodeAlpha_DiseasePrediction/tree/main
 ```
 
 2. Install dependencies
